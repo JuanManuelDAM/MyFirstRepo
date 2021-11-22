@@ -1,1 +1,4 @@
 Tenemos que verifivar que se actualiza bien toda la información.
+
+git es genial funciona bien y es rápido, me voy a instalar la aplicación en
+cuanto termine la práctica y para utilizarlo para todo.
